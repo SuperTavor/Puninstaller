@@ -6,8 +6,9 @@ This app also supports mods for the game, which weren't possible until now.
 
 
 ## Features
-** Installing and auto updating Yo-Kai Watch Puni Puni with a click of a button.**
+**Installing and auto updating Yo-Kai Watch Puni Puni with a click of a button.**
+
 **Custom save management, so you can backup your progress in the game and protect it when installing mods.**
-** Easy mod management but deep mod loading **
+**Easy mod management but deep mod loading**
 **Enables modders to go wild with the game, without worrying about comaptibility issues.**
 
